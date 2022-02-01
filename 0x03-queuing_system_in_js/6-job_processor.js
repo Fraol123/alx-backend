@@ -1,6 +1,6 @@
 import kue from 'kue';
 
-const blacklistedNum = ['2513518780', '2513518780'];
+const blacklistedNum = ['4154318781', '4154318781'];
 
 function sendNotification(phoneNumber, message, job, done) {
     const total = 100;
